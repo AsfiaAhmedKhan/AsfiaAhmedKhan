@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khanasfiaahmed@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LMJnbNOX18JHCx5EuSOLeCQ9SJWrf_Gl/view?usp=sharing](https://drive.google.com/file/d/1LMJnbNOX18JHCx5EuSOLeCQ9SJWrf_Gl/view?usp=sharing)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
