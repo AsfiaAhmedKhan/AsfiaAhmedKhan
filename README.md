@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfiaahmedkhan&label=Profile%20views&color=0e75b6&style=flat" alt="asfiaahmedkhan" /> </p>
 
-- 🔭 I’m currently working on **Arduino Based Solar Tracker with IoT Monitoring System**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Iot, Machine Learning**
 
