@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khanasfiaahmed@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/u/0/my-drive
+- 📄 Know about my experiences https://drive.google.com/file/d/1TnW7pG1WkHNGe86f7h3k5zPvzWnCxMaW/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asfia ahmed khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asfia ahmed khan" height="30" width="40" /></a>
